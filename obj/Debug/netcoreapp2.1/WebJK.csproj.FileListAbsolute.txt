@@ -1,0 +1,14 @@
+C:\Users\gdu4\jenkin\WebJK\bin\Debug\netcoreapp2.1\WebJK.deps.json
+C:\Users\gdu4\jenkin\WebJK\bin\Debug\netcoreapp2.1\WebJK.runtimeconfig.json
+C:\Users\gdu4\jenkin\WebJK\bin\Debug\netcoreapp2.1\WebJK.runtimeconfig.dev.json
+C:\Users\gdu4\jenkin\WebJK\bin\Debug\netcoreapp2.1\WebJK.dll
+C:\Users\gdu4\jenkin\WebJK\bin\Debug\netcoreapp2.1\WebJK.pdb
+C:\Users\gdu4\jenkin\WebJK\obj\Debug\netcoreapp2.1\WebJK.csprojAssemblyReference.cache
+C:\Users\gdu4\jenkin\WebJK\obj\Debug\netcoreapp2.1\WebJK.csproj.CoreCompileInputs.cache
+C:\Users\gdu4\jenkin\WebJK\obj\Debug\netcoreapp2.1\WebJK.RazorAssemblyInfo.cache
+C:\Users\gdu4\jenkin\WebJK\obj\Debug\netcoreapp2.1\WebJK.RazorAssemblyInfo.cs
+C:\Users\gdu4\jenkin\WebJK\obj\Debug\netcoreapp2.1\WebJK.AssemblyInfoInputs.cache
+C:\Users\gdu4\jenkin\WebJK\obj\Debug\netcoreapp2.1\WebJK.AssemblyInfo.cs
+C:\Users\gdu4\jenkin\WebJK\obj\Debug\netcoreapp2.1\WebJK.RazorTargetAssemblyInfo.cache
+C:\Users\gdu4\jenkin\WebJK\obj\Debug\netcoreapp2.1\WebJK.dll
+C:\Users\gdu4\jenkin\WebJK\obj\Debug\netcoreapp2.1\WebJK.pdb
